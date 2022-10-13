@@ -21,6 +21,7 @@ Have a look at [this](CONTRIBUTING.md) for ways to get started.
 
 - [@akshay-99h](https://www.github.com/akshay-99h)
 - [@Sanket-Balani](https://github.com/Sanket-Balani)
+- [@Manya-tech](https://github.com/Manya-tech)
 
 ## Acknowledgements
 
